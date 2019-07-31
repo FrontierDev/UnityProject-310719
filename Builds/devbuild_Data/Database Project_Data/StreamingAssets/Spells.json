@@ -1,0 +1,1 @@
+{"name":"spelldb","hideFlags":0,"Spells":[{"SpellName":"Test Spell","SpellID":1,"SpellDesc":"A spell for testing","SpellCooldown":1.0,"SpellCastTime":1.0,"SpellIconPath":"","SpellCastType":0,"CasterAuras":[2],"TargetAuras":[1]}]}

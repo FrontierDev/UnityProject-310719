@@ -1,0 +1,44 @@
+{
+	"Factions":[
+		{
+		"FactionName":"Holy Empire of Aldain",
+		"FactionLeader":"King Randus Achov I",
+		"FactionID":1,
+		"FactionIconPath":"Assets/Resources/Artwork/Faction/Faction_Icon_Aldain.png",
+		"FactionDescPath":"/Text/Factions/aldain.txt",
+		"FactionRaceList":["Aldinese","Irenoi","Sulduori","Parenish","Bassiri"]
+		},
+		{
+		"FactionName":"Komerian Empire",
+		"FactionLeader":"Geth Vorask",
+		"FactionID":2,
+		"FactionIconPath":"Assets/Resources/Artwork/Faction/Faction_Icon_Komerian.png",
+		"FactionDescPath":"/Text/Factions/komeral.txt",
+		"FactionRaceList":["Komerian","Palurian","Eroccine","Korrese","Bassiri"]
+		},
+		{
+		"FactionName":"Republic of Phontoris",
+		"FactionLeader":"Premier Haldor Tusendril",
+		"FactionID":3,
+		"FactionIconPath":"Assets/Resources/Artwork/Faction/Faction_Icon_Phontoris.png",
+		"FactionDescPath":"/Text/Factions/phontoris.txt",
+		"FactionRaceList":["Phontor","Seranese","Littanish","Talweish","Bassiri"]
+		},
+		{
+		"FactionName":"Al Ariel Federation",
+		"FactionLeader":"Academy of Arielis",
+		"FactionID":4,
+		"FactionIconPath":"Assets/Resources/Artwork/Faction/Faction_Icon_Ariel.png",
+		"FactionDescPath":"/Text/Factions/alariel.txt",
+		"FactionRaceList":["Ariel","Seranese","Duorian","Talweish","Bassiri"]
+		},
+		{
+		"FactionName":"Freefolk",
+		"FactionLeader":"Nobody",
+		"FactionID":5,
+		"FactionIconPath":"Assets/Resources/Artwork/Faction/Faction_Icon_Freefolk.png",
+		"FactionDescPath":"/Text/Factions/travellers.txt",
+		"FactionRaceList":["Littanish","Duorian","Sulduori","Palurian","Karelish"]
+		}
+	]
+}

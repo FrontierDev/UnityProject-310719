@@ -1,0 +1,292 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1735
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\bolt.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\bolt.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\bolt.user.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\bolt.user.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.common.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.common.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.dotnet.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.dotnet.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.native_android.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.native_android.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.native_ios.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.native_ios.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.null.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.null.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.photon.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\udpkit.platform.photon.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\Mono.Nat.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\Mono.Nat.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\pbgp68\Documents\Unity Projects\Database\Database Project\Builds\devbuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.693 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.948156 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 28b4 -> priority: 1 
+  Thread -> id: 2580 -> priority: 1 
+Bolt starting with a simulation rate of 60 steps per second
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'BoltConsole'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'BoltPoll'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'BoltSend'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'BoltSceneLoader'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'NetworkCallbacks'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'ServerCallbacks'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Global Behaviour: 'TutorialPlayerCallbacks'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered token class CustomisationToken as id 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7/31/2019 7:11:27 PM: socket created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7/31/2019 7:11:27 PM: Binding physical socket using platform 'DotNetPlatform'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7/31/2019 7:11:27 PM: Socket bound to [EndPoint 127.0.0.1:27000 | 27000]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7/31/2019 7:11:27 PM: Physical socket bound to [EndPoint 127.0.0.1:27000 | 27000]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library C:/Users/pbgp68/Documents/Unity Projects/Database/Database Project/Builds/devbuild_Data/Mono/libc
+Fallback handler could not load library C:/Users/pbgp68/Documents/Unity Projects/Database/Database Project/Builds/devbuild_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/pbgp68/Documents/Unity Projects/Database/Database Project/Builds/devbuild_Data/Mono/libc
+7/31/2019 7:11:27 PM: 100.90.62.131 100.90.62.129,8.8.8.8,8.8.4.4,100.90.62.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7/31/2019 7:11:27 PM: Could not resolve a possible LAN address by inspecting local network interfaces
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7/31/2019 7:11:27 PM: physical socket started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.906670 ms
+(Re)loading item database...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(ItemDB) Old Arming Sword loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(ItemDB) Burlap Bandage Pack loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(ItemDB) Incomplete Map loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(ItemDB) Old Chainmail loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(ItemDB) Sticks loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(Re)loading condition database...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(CondDB) Nomad's Stamina loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(CondDB) Dry Times loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(CondDB) Aldinese Swordsmanship loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(CondDB) Woodsman's Speed loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(CondDB) Militiaman loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(Re)loading perk database...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Aldinese Discipline loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Ariel Ingenuity loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Bassiri Resilience loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Duorian Agility loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Eroccine Alchemy loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Irenoi Conditioning loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Karelish Honour loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Komerian Zealotry loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Korrese Savagery  loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Littanish Guile loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Palurian Resistance loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Parenish Speed loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Phontor Swordsmanship loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Seranese Vision loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Sulduori Endurance loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(PerkDB) Talweish Eye loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(Re)loading skill database...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(SkillDB) Arms Mastery loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(Re)loading faction database...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(FctnDB) Holy Empire of Aldain loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(FctnDB) Komerian Empire loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(FctnDB) Republic of Phontoris loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(FctnDB) Al Ariel Federation loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(FctnDB) Freefolk loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 2.177369 ms (FindLiveObjects: 0.056292 ms CreateObjectMapping: 0.059713 ms MarkObjects: 2.051099 ms  DeleteObjects: 0.009330 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Race Stage GUI (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Behaviour not available in this dispatcher, ignoring call to Remove.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Behaviour not available in this dispatcher, ignoring call to Remove.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Behaviour not available in this dispatcher, ignoring call to Remove.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
