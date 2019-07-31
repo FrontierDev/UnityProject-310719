@@ -9,7 +9,7 @@ about their character's history as well as the items that they started out with.
 is based on the Photon Bolt API. Most recently, some RPG features have been added to the project, including 
 movement and interaction with non-player characters.
 
-1. UNITY EDITOR PLUGINS
+1. UNITY EDITOR PLUGINS (saved in /Assets/Editor, not /Assets/Scripts)
 - There are several databases in the project which store information used in the roleplaying game: items, skills
 (and associated 'perks'), spells (and associated 'auras'), quests and NPCs. These can all be editted in the
 Unity Editor. The Editor loads the relevant information from a .json file and stores it in a ScriptableObject,
